@@ -2,7 +2,7 @@
 <br>
 When some solute is added to a solvent, the freezing point of the resulting solution is found to be less than that of pure solvent. This is known as freezing point depression. It is a colligative property i.e. the extend of the dropping of the freezing point is proportional to the number of solute molecules present in the solution.<br>
 
-The magnitude of the freezing-point depression (ΔTf) is directly proportional to the molality of the solution as <br>
+The magnitude of the freezing-point depression (ΔTf) is directly proportional to the molality of the solution as:<br>
 
 ∆T<sub>f</sub>=K<sub>f</sub>×molality &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)</br>
 <br>
