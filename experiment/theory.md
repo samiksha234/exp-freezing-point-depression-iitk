@@ -20,7 +20,7 @@ mass of the solvent in kg=(mass of the solvent in gm(w_solvent))/1000&nbsp;&nbsp
 
 Now plugging all the information into equation (1), we finally get:<br>
 
-M=(K_f×w_solute×1000)/(ΔT_f×w_solvent )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)<br>
+M=(K<sub>f</sub>×w<sub>solute</sub>×1000)/(ΔT<sub>f</sub>×w<sub>solvent</sub> )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)<br>
 
 Using equation (5) we can calculate the molecular weight of the solute provided a solution is prepared containing known masses of solute and solvent (wsolute and wsolvent), the measured freezing-point depression of the solution, and the value of kf for the solvent is known. This is a fairly common method for determining the molecular weights of non-volatile substances and it forms the basis for this experiment. We will dissolve an accurately weighed quantity of an unknown solute in an accurately weight quantity of solvent and measure the freezing-point depression for the resulting solution. Then, using the provided Kf value for solvent and equation (5), we will calculate the molecular weight of the unknown solute.
 
