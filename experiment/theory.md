@@ -14,7 +14,7 @@ where, Kf is a parameter called the freezing-point depression constant or cryosc
 molality=(moles of solute)/(Mass of the solvent in kg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)<br>
 
 
-moles of solute=(weight of solute (w_solute))/(Molecular weight of solute (M))&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)<br>
+moles of solute=(weight of solute (w_solute))/(Molecular weight of solute (M))&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)<br>
 
 mass of the solvent in kg=(mass of the solvent in gm(w_solvent))/1000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)<br>
 
